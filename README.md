@@ -8,7 +8,6 @@
 
 - Interested in python coding.
 - Exploring new experience
-- Mechanical Engineering at K.N.T.U
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaghayeghAmeri&show_icons=true&locale=en&layout=compact" alt="ShaghayeghAmeri" />
