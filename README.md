@@ -4,11 +4,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shaghayegh-ameri98/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shaghayegh.a.e@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/mrr_zo)
-[![Github](https://img.shields.io/github/followers/ShaghayeghAmer?label=Follow&style=social)](https://github.com/ShaghayeghAmeri)
+[![Github](https://img.shields.io/github/followers/ShaghayeghAmeri?label=Follow&style=social)](https://github.com/ShaghayeghAmeri)
 
 - Interested in python coding.
 - Exploring new experience
-- Mechanical Enginieering at K.N.T.U
+- Mechanical Engineering at K.N.T.U
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaghayeghAmeri&show_icons=true&locale=en&layout=compact" alt="ShaghayeghAmeri" />
