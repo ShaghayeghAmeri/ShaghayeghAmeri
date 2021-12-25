@@ -6,7 +6,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/shaghayegh_98)
 [![Github](https://img.shields.io/github/followers/ShaghayeghAmeri?label=Follow&style=social)](https://github.com/ShaghayeghAmeri)
 
-- Interested in python coding.
 - Exploring new experience
 
 <div>
